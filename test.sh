@@ -1,3 +1,4 @@
 '#!/bin/bash' 
 'echo "Test script v1"' 
 'echo "Test script v2"'
+'echo "Test script v3"'
